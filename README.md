@@ -1,5 +1,7 @@
 # 25KHz-Arduino-Fan-PWM-Control
-Arduino program that control individual timers OC1RA and ICR1. Allows for PWM control 0-100% and 8MHz. Using a frequency in HZ, from 125HZ to 8MHz. A variable is declared in the code and can be modified using setPwmDuty(); to change the duty cycle for the specified frequency.
+Arduino program that control individual timers OC1RA and ICR1. Allows for PWM control 0-100% and 8MHz. Using a frequency in HZ, from 125HZ to 8MHz. A variable is declared in the code and can be modified using setPwmDuty(); to change the duty cycle for the specified frequency. Please visit my Arduino page for more information:
+
+- https://create.arduino.cc/projecthub/tylerpeppy/25-khz-4-pin-pwm-fan-control-with-arduino-uno-3005a1?ref=user&ref_id=426997&offset=0
 
 Usage: 
 - 2 variables at the top of the file change freq and duty.
